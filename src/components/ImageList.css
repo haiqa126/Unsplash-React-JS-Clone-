@@ -1,0 +1,17 @@
+
+
+.image-list{
+    display: flex;
+    justify-content: space-around;
+
+    flex-wrap: wrap;
+   
+    border: 2px solid black;
+    
+}
+.image-list img{
+    height: 500px;
+    width: 500px;
+    border:2px solid black;
+    padding: 5px ;
+}
